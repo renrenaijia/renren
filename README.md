@@ -4,6 +4,8 @@
 
 ### 另外，招收会使用Git，并拥有github账号的IT软件开发人员，与我们一起维护这个公告页面！有意者，请发送邮件给我，谢谢！邮箱：renrenaijia@foxmail.com
 
+#### 更新时间：2018.07.21
+
 # 最新QQ裙：
 
 ![](http://ww1.sinaimg.cn/large/005zWjpngy1ftgpvhto2mj30f00kkgma.jpg)
